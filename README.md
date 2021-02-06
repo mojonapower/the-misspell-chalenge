@@ -8,7 +8,7 @@ The perfect Ice-Breaker for open-source contributions; fixing a misspell is easy
 
 Find one misspell on the BreatheCode lessons, projects or exercises and create a pull request with the fix.
 
-### 1. To fix a misspell on a BreatheCode Lesson:  
+### 1. To fix a misspell on a B
 
 ![Github logo on breathecode lesson](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/github-logo.png?raw=true)
 
